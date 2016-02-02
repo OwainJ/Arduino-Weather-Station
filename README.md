@@ -1,4 +1,4 @@
-# Arduino-Weather-Station
+# Arduino-Weather-Station-Transmitter
 A wireless arduino weather station project.
 This is the code for the transmitter and works in conjunction with the receiver.
 https://github.com/OwainJ/Arduino-Weather-Station-Receiver
